@@ -7,3 +7,4 @@ creating a new branch is quick.
 分支冲突
 我在github上
 Switched to a new branch 'dev'
+我在修复bug
